@@ -1,4 +1,6 @@
 <h1 align="center">Sia Blog -Laravel</h1>
+<br/><br/>
+<h2>Developed by</h2>[Kabir](https://github.com/n3o-d4rk3r) and [Siam Ahmed](https://github.com/siammahfuz)
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
