@@ -1,4 +1,4 @@
-<h1 align="center">Sia Blog- Laravel</h1>
+<h1 align="center">Sia Blog - Laravel</h1>
 <br/><br/>
 <h2>Developed by</h2>[Kabir](https://github.com/n3o-d4rk3r) and [Siam Ahmed](https://github.com/siammahfuz)
 <br/>
