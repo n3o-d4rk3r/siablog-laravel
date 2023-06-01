@@ -2,7 +2,6 @@
 <br/><br/>
 <h2>Developed by</h2>[Kabir](https://github.com/n3o-d4rk3r) and [Siam Ahmed](https://github.com/siammahfuz)
 <br/>
-<br/>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
